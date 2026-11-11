@@ -1,0 +1,6 @@
+{
+  "name": "SENA Inducción Digital - Seguimiento & Formación Institucional",
+  "description": "Plataforma interactiva para el seguimiento de la inducción SENA, aprendizaje de la normativa, imagen institucional, cuestionarios dinámicos y simulador de casos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
